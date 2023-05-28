@@ -1,2 +1,6 @@
+# unsued
+*.ipynb_checkpoints/
+*virtual_documents/
+
 # ignore autoDock
 AutoDock-Vina
